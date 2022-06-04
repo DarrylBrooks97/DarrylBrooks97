@@ -1,8 +1,8 @@
 <div align="center">
 
-<div style="display:flex; justify-content:center"><h2>Welcome to my page!</h2> <box style="width:30px;height:30px;"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="width:inherit;"/></box></div>
+<div style="display:flex; justify-content:center"><h2>Welcome to my page!</h2> <box style="width:30px;height:30px;"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/></box></div>
 
-Wassup, My name is Darryl , I'm a Junior SWE still navigating within the industry. I'm currently building [Metabird.so](https://metabird.so/) and [Dorsal](https://dorsal.vercel.app/) on my free time. I moderate The Black Coder Community [BLACC](https://www.blacc.xyz) <h2>Overview 🔥</h2>
+Wassup, My name is Darryl , I'm a Junior SWE still navigating within the industry. I'm currently building [Metabird.so](https://metabird.so/) and [Dorsal](https://dorsal.vercel.app/) on my free time. I moderate The Black Coder Community [BLACC](https://www.blacc.xyz/) <h2>Overview 🔥</h2>
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarrylBrooks97&theme=monokai-metallian&hide_border=true"/>
 
 <br>
